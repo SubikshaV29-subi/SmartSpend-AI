@@ -1,0 +1,5 @@
+
+# Backend private files
+backend/.env
+backend/.venv/
+backend/instance/
